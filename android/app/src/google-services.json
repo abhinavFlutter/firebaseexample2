@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095655939076",
+    "project_id": "fir-example2-5d0a4",
+    "storage_bucket": "fir-example2-5d0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095655939076:android:99d5a991880080348b2951",
+        "android_client_info": {
+          "package_name": "com.abhinav.firebaseexample2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6vYlbTzaAfjxofNGPJ1PIwFTAZWND7GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
